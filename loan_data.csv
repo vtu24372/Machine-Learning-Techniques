@@ -1,0 +1,7 @@
+Age Group,Employment Status,Income,Credit Score,Property Owned,Loan Approved
+Young,Employed,High,Good,Yes,Yes
+Young,Employed,High,Average,Yes,Yes
+Middle,Self-Employed,Medium,Good,Yes,Yes
+Young,Unemployed,Low,Poor,No,No
+Senior,Employed,Medium,Average,No,No
+Middle,Employed,High,Good,No,Yes
